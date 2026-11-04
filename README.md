@@ -6,6 +6,6 @@ Building agent infrastructure. Focused on:
 - 🔄 **RSI** — improving agent workflows through feedback and evaluation.
 - 👨‍💻 **Coding Agents** — turning ideas into working, verified code.
 
-⚙️ Background in recommendation systems and performance engineering.
+⚙️ Background in Agent Harness, recommendation architecture, and performance optimization.
 
 🛼 Skating · 📚 History
