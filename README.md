@@ -1,24 +1,30 @@
 # Hi, I'm Alex Xu 👋
 
-**Agent Harnesses · Agent Infrastructure · Distributed Systems**
+**Agent Memory · Recursive Self-Improvement (RSI) · Coding Agents**
 
-I'm a software engineer focused on the execution layer behind reliable AI agents. My background is in recommendation infrastructure, execution engines, and performance engineering.
+I'm a software engineer building agent infrastructure. I'm interested in how agents retain useful experience, improve their workflows through feedback, and turn software tasks into verified changes.
 
-I'm interested in how agents maintain context, use tools, recover from failures, and carry a task through to completion. I bring a systems engineering perspective to these problems: explicit state, clear execution semantics, and controlled resource usage.
+## Agent memory
 
-## What I focus on
+How agents preserve useful knowledge across sessions and retrieve it when it matters. My focus includes memory lifecycle management, provenance, context integration, and interchangeable storage and retrieval backends.
 
-- **Agent runtimes** — execution semantics, multi-step orchestration, and task lifecycle management.
-- **State and recovery** — persistent state, checkpoints, and resumable execution for long-running tasks.
-- **Tool orchestration** — capability routing, budget propagation, retries, and cancellation.
-- **Context and memory** — managing context across turns and retrieving information when it is useful.
-- **Observability and evaluation** — execution traces, evidence-based validation, and debugging agent failures.
+I care about what an agent should remember, how that memory stays current, and whether it helps on the next task.
 
-## How I approach engineering
+## Recursive self-improvement (RSI)
 
-I like systems with explicit state transitions, bounded resource use, and failures you can inspect. In agent workflows, I care about distinguishing what was planned, what actually ran, and what the evidence confirms.
+How agents use execution traces and evaluation feedback to improve their strategies, tools, and workflows. I'm interested in failure analysis, candidate revisions, controlled comparisons, and reviewable adoption of improvements.
 
-My interests connect agent infrastructure with the systems problems I've worked on: scheduling, concurrency, latency, resource control, and production reliability.
+For me, an improvement needs evidence: better outcomes on comparable tasks, with costs and regressions accounted for.
+
+## Coding agents
+
+How agents understand codebases, plan changes, edit code, run checks, and respond to review. I focus on the harness behind that workflow: tool integration, state management, recovery, and clear evidence of what actually worked.
+
+I'm especially interested in connecting coding agents with persistent memory and feedback loops so that experience can inform future work.
+
+## Engineering background
+
+My background is in recommendation infrastructure, execution engines, and performance engineering. That experience shapes how I build agent systems: explicit state transitions, bounded resource use, observable failures, and measurable results.
 
 ## Open source
 
@@ -26,4 +32,4 @@ My interests connect agent infrastructure with the systems problems I've worked 
 
 ## Beyond code
 
-Skating and history. Always happy to exchange ideas about agent runtimes, developer tooling, and reliable automation.
+Skating and history. Always happy to exchange ideas about agent memory, self-improvement, and coding agents.
